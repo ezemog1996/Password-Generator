@@ -17,6 +17,10 @@ function writePassword() {
       alert("Please choose a length greater than 8 characters and less that 128 characters.");
       length = prompt("How many characters would you like your password to contain? (8-128 characters)");
     };
+    while (isNaN(length) === true) {
+      alert("Please type in a NUMBER between 8 and 128.");
+      length = prompt("How many characters would you like your password to contain? (8-128 characters)");
+    };
 
     // Ask they about the characters they'd like to include
     var doLowercase = confirm("If you would like lowercase letters in your password, click OK.");
