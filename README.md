@@ -11,8 +11,11 @@ How to use:
 Before generating password:
 ![image](https://user-images.githubusercontent.com/71483178/96330821-86b8ed00-1026-11eb-8c69-09a2e75ea7d2.png)
 
-With first prompt:
+Prompt asking for password length:
+![image](https://user-images.githubusercontent.com/71483178/96331062-43f81480-1028-11eb-81bb-0a0ee510a6c2.png)
 
+First confirm asking if the user would like to include lowercase letters:
+![image](https://user-images.githubusercontent.com/71483178/96331070-4e1a1300-1028-11eb-9a95-1fe5f358908b.png)
 
 With generated password:
 ![image](https://user-images.githubusercontent.com/71483178/96330833-9c2e1700-1026-11eb-9776-68b3d526bfa5.png)
